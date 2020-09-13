@@ -1,4 +1,4 @@
-# i5 10600 + Asus strix b460i 核显 Hackintosh EFI
+# i5 10600 + Rog B460i 核显 Hackintosh EFI
 
 - opencore引导macOS 10.15.6 && win10 ltsc2019
 
