@@ -1,6 +1,6 @@
 # i5 10600 + Asus strix b460i 核显 Hackintosh EFI
 
-- 这是我在淘宝定制的黑苹果EFI，opencore引导macOS 10.15.6 && win10 ltsc2019
+- opencore引导macOS 10.15.6 && win10 ltsc2019
 
 ## 0、完美程度
 - 0、核显加速，显存1536mb（没钱，没上独显）
