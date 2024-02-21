@@ -1,8 +1,7 @@
 # i5 10600 + Rog B460i 核显 Hackintosh EFI
+- OpenCore引导macOS Catalina 10.15.6 ++ Win10
 
-- opencore引导macOS 10.15.6 && win10 ltsc2019
-
-## 0、完美程度
+### 0、完美程度
 - 0、核显加速，显存1536mb（没钱，没上独显）
 - 1、睡眠正常（睡眠一晚上依旧可唤醒，今天发现以后1个小bug，睡眠一晚上显示器音频不可识别，之前没出现过）
 - 2、cpu睿频正常，单核4.8，全核4.4
@@ -14,7 +13,12 @@
 - 7、蓝牙可用
 - 8、4k@60显示器输出正常，内建识别，亮度及音量可通过monitorControl控制
 
-## 1、具体不详细介绍，说一些细节
+### 1、具体不详细介绍，说一些细节
 - 0、显示器输出为dp转mini dp，好像加了一个mini dp补丁，具体没在意
 - 1、记得修改platforminfo里面的串号，以免不能登陆app store
 - 2、若可以修复上述小bug记得跟我分享一下，star也不能少哦
+
+# i5 10600 + Rog B460i + AMD-6650XT Hackintosh EFI 
+- OpenCore引导macOS Ventura 13.6.3 + Win10
+- EFI-new文件夹
+
